@@ -52,7 +52,7 @@ app.post('/api/echo', function(req, res){
         "response": {
           "outputSpeech": {
             "type": "PlainText",
-            "text": "Welcome to SamuelApp! You can test the nodejs Echo API. Please say a command"
+            "text": "Welcome to SamuelApp! Thank you for trying me out. I am written in nodejs Echo API. Please say a command"
           },
           "card": {
             "type": "Simple",
